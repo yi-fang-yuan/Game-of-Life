@@ -1,3 +1,3 @@
 # Game-of-Life
 
-Download all the files under the same folder and click on index.html to play!
+To play the demo, click on [game of life](https://yifangyuan.me/Game-of-Life/)
